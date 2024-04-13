@@ -2,10 +2,7 @@
 - students full name, photo(297px by 297px),research title,and email
         link to bootstrap implementation(current students) : https://www.bootdey.com/snippets/view/bs4-profile-header-card#html
         link to bootstrap implementation(previous students) : https://www.bootdey.com/snippets/view/bs4-profile-contacts#html
-- for image gallery(for visitors , general picture)
-    link : https://mdbootstrap.com/docs/standard/extended/gallery/
-           https://colorlib.com/wp/template/carousel-10/
-- forms 
-     link : https://mdbootstrap.com/docs/standard/forms/overview/
-- map 
-     link : https://mdbootstrap.com/docs/standard/extended/google-maps/
+
+- ask dedicated email for this 
+- ask dedicated phone number for this 
+- ask sample template for internship 

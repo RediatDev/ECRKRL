@@ -57,7 +57,10 @@ body {
     word-spacing: 0px;
     letter-spacing: -0.2px;
 }
-
+.collaborateText{
+    text-align: justify;
+    padding-top: 2rem;
+}
 .dark-scheme{
     color: var(--dark-body-font-color);
 }
