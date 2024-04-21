@@ -6,3 +6,11 @@
 - ask dedicated email for this 
 - ask dedicated phone number for this 
 - ask sample template for internship 
+
+first name 
+last name 
+current designation 
+Research Area 
+email 
+Personal portfolio (if any)
+your photo for profile (for better view your photo should be 297px by 297px) you can use the following link for photo resizing :https://imageresizer.com/resize/editor/662111f85c43d355066440e4
